@@ -1,1 +1,1 @@
-terminal.nafeeur.com
+https://terminal.nafeeur.com
